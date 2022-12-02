@@ -19,4 +19,4 @@ class App
 }
 
 let app = new App();
-app.runApplication();
+app.runApplication(); 
