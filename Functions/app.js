@@ -12,8 +12,8 @@ class App
     classFunction()
     {
 
-        console.log("BWAHAHA!!!")
-
+        let HA = "BWAHAHA!!"
+        return HA
 
     }
     thisfunction()
